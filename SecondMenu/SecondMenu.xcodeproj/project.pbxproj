@@ -117,6 +117,7 @@
 				8555A7461F03DE640042439B /* HWQSMViewController.m */,
 				8555A7481F03DEAA0042439B /* DetailViewController.h */,
 				8555A7491F03DEAA0042439B /* DetailViewController.m */,
+				8555A7521F04A15C0042439B /* screenshot */,
 			);
 			path = SecondMenu;
 			sourceTree = "<group>";
@@ -124,7 +125,6 @@
 		8555A7121F03DDC60042439B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				8555A74F1F04A0030042439B /* HWQSecondMenuGif.gif */,
 				8555A7131F03DDC60042439B /* main.m */,
 			);
 			name = "Supporting Files";
@@ -147,6 +147,14 @@
 				8555A7391F03DDC60042439B /* Info.plist */,
 			);
 			path = SecondMenuUITests;
+			sourceTree = "<group>";
+		};
+		8555A7521F04A15C0042439B /* screenshot */ = {
+			isa = PBXGroup;
+			children = (
+				8555A74F1F04A0030042439B /* HWQSecondMenuGif.gif */,
+			);
+			name = screenshot;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
