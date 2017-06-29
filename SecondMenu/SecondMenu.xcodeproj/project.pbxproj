@@ -16,6 +16,7 @@
 		8555A7381F03DDC60042439B /* SecondMenuUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8555A7371F03DDC60042439B /* SecondMenuUITests.m */; };
 		8555A7471F03DE640042439B /* HWQSMViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8555A7461F03DE640042439B /* HWQSMViewController.m */; };
 		8555A74A1F03DEAA0042439B /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8555A7491F03DEAA0042439B /* DetailViewController.m */; };
+		8555A7501F04A0030042439B /* HWQSecondMenuGif.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8555A74F1F04A0030042439B /* HWQSecondMenuGif.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		8555A7461F03DE640042439B /* HWQSMViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HWQSMViewController.m; sourceTree = "<group>"; };
 		8555A7481F03DEAA0042439B /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
 		8555A7491F03DEAA0042439B /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		8555A74F1F04A0030042439B /* HWQSecondMenuGif.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = HWQSecondMenuGif.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 		8555A7121F03DDC60042439B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				8555A74F1F04A0030042439B /* HWQSecondMenuGif.gif */,
 				8555A7131F03DDC60042439B /* main.m */,
 			);
 			name = "Supporting Files";
@@ -255,6 +258,7 @@
 				8555A7221F03DDC60042439B /* LaunchScreen.storyboard in Resources */,
 				8555A71F1F03DDC60042439B /* Assets.xcassets in Resources */,
 				8555A71D1F03DDC60042439B /* Main.storyboard in Resources */,
+				8555A7501F04A0030042439B /* HWQSecondMenuGif.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -516,6 +520,7 @@
 				8555A73E1F03DDC60042439B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8555A73F1F03DDC60042439B /* Build configuration list for PBXNativeTarget "SecondMenuTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +529,7 @@
 				8555A7411F03DDC60042439B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8555A7421F03DDC60042439B /* Build configuration list for PBXNativeTarget "SecondMenuUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +538,7 @@
 				8555A7441F03DDC60042439B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
